@@ -17,6 +17,8 @@ params:
       url: "https://hachyderm.io/@schrierc"
     - name: "Github"
       url: "https://github.com/schrierc"
+    - name: "Instagram"
+      url: "https://instagram.com/schrierc"
 
 menu:
   main:
