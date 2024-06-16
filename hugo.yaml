@@ -1,0 +1,30 @@
+baseURL: https://schrierc.dev/
+languageCode: en-us
+title: schrierc.dev
+theme: PaperMod
+params:
+  profileMode:
+    enabled: true
+    title: "Chris Schrier" # optional default will be site title
+    # subtitle: "schrierc"
+    imageUrl: "profile.jpg" # optional
+    imageTitle: "Chris Schrier" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
+  socialIcons: # optional
+    - name: "Mastodon"
+      url: "https://hachyderm.io/@schrierc"
+    - name: "Github"
+      url: "https://github.com/schrierc"
+
+menu:
+  main:
+    - identifier: "posts"
+      name: "posts"
+      url: "/posts/"
+      weight: 10
+    - identifier: "recpies"
+      name: "recipes"
+      url: "/recipes"
+      weight: 20
