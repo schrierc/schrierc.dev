@@ -4,8 +4,6 @@ date = 2024-06-20T00:45:51Z
 draft = false
 tags = ["breakfast", "sausage", "casserole"]
 +++
-
-## Breakfast Casserole Seasoned with Country Gravy
  
 ## Serves
 8-10
