@@ -86,7 +86,7 @@ Note: Consider adding slightly more lemon juice for more acidity.
 
 ## Serving
 
-This dish should be serve with a salad, we prefer a mix of chopped iceberg and romaine lettuce and
+This dish should be served with a salad, we prefer a mix of chopped iceberg and romaine lettuce and
 roughly chopped tomato.
 
 Consider serving with slices of Naan and hummus on the side.
